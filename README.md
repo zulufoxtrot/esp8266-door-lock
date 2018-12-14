@@ -1,5 +1,7 @@
 # RFID/Web door lock
 
+![Photo](photo.jpg?raw=true)
+
 Features:
 
 - Works with Mifare classic smartcards
